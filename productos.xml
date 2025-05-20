@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+  <producto>
+    <referencia>ATH94</referencia>
+    <nombre>Camiseta Athletic Club 1994</nombre>
+    <precio>35.00</precio>
+  </producto>
+  <producto>
+    <referencia>ATM96</referencia>
+    <nombre>Camiseta Atlético 1996</nombre>
+    <precio>38.00</precio>
+  </producto>
+  <producto>
+    <referencia>BET97</referencia>
+    <nombre>Camiseta Betis 1997</nombre>
+    <precio>33.00</precio>
+  </producto>
+  <producto>
+    <referencia>CEL99</referencia>
+    <nombre>Camiseta Celta 1999</nombre>
+    <precio>32.75</precio>
+  </producto>
+  <producto>
+    <referencia>DEP02</referencia>
+    <nombre>Camiseta Deportivo 2002</nombre>
+    <precio>37.25</precio>
+  </producto>
+  <producto>
+    <referencia>ESP00</referencia>
+    <nombre>Camiseta Espanyol 2000</nombre>
+    <precio>31.50</precio>
+  </producto>
+  <producto>
+    <referencia>FCB06</referencia>
+    <nombre>Camiseta Barcelona 2006</nombre>
+    <precio>42.50</precio>
+  </producto>
+  <producto>
+    <referencia>RM99</referencia>
+    <nombre>Camiseta Real Madrid 1999</nombre>
+    <precio>39.99</precio>
+  </producto>
+  <producto>
+    <referencia>SEV05</referencia>
+    <nombre>Camiseta Sevilla 2005</nombre>
+    <precio>34.50</precio>
+  </producto>
+  <producto>
+    <referencia>VAL01</referencia>
+    <nombre>Camiseta Valencia 2001</nombre>
+    <precio>36.00</precio>
+  </producto>
+</catalogo>
