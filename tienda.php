@@ -38,13 +38,17 @@ $resultado = $conn->query($sql);
 </head>
 <body>
 
-<div class="topbar d-flex justify-content-between align-items-center">
-  <div><strong>Bienvenido, <?php echo $_SESSION["usuario"]; ?></strong></div>
+<div class="topbar d-flex justify-content-between align-items-center px-4 py-2 bg-dark text-white mb-4 rounded">
   <div>
-    <a href="mis_compras.php" class="btn btn-outline-light btn-sm">Mis Compras</a>
-    <a href="logout.php" class="btn btn-danger btn-sm">Cerrar sesión</a>
+    <strong>Bienvenido, <?php echo $_SESSION["usuario"]; ?></strong>
+  </div>
+  <div class="d-flex gap-2">
+    <a href="mis_compras.php" class="btn btn-outline-light btn-sm">🛍️ Mis Compras</a>
+    <a href="generar_xml.php" class="btn btn-outline-success btn-sm">📦 Descargar catálogo XML</a>
+    <a href="logout.php" class="btn btn-danger btn-sm">🔒 Cerrar sesión</a>
   </div>
 </div>
+
 
 <div class="mb-4 text-end">
   <a href="cliente.html" class="btn btn-outline-secondary">💬 Completar mis datos de cliente</a>
